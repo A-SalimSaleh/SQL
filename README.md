@@ -1,4 +1,4 @@
-# Project Title
+# SQL
 
 This repository cintains MySQL scripts for various  database operations, management and manipulation. Feel free to ecplore and contribute.
 
@@ -50,6 +50,6 @@ This project is licensed under the MIT License
 
 ## Contact
 
-Your Name - A.Salim Saleh
+A.Salim Saleh
 
 Project Link: (https://github.com/A-SalimSaleh/SQL)
